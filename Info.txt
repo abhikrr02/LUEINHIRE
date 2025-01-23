@@ -1,0 +1,24 @@
+AS PER THE INSTRUCTIONS GIVEN, ONLY HTML CSS AND JAVASCRIPT IS USED. NO JAVASCRIPT FRAMEWORK OR CSS FRAMEWORK OR ANY LIBRARY WAS USED IN THIS PROJECT. ALSO TO MAKE IT RESPONSIVE, I HAVE USED MEDIA QUERIES.
+THAT'S ALL.
+
+This is a static candidate page of Lueinhire.com. When I first saw the official page, the first thing that I wanted to do was redesigning the navbar. So, considering the logo of the website, I chose to design the whole website with similar theme color.
+The whole website is designed in the same theme using different shades of the same color. Although I have not linked different pages in the navbar so we won't be able to check the active class.
+but just to showcase the same, I have added the active class manually to the candidate page, also I have written the javascript code for the active class for the same, just in case.
+
+I believe that a professional website is supposed to be a minimal and simple one. And the contet that i was able to fetch from the official website was limited, so, there are just a few tweaks that I have made and it looks good, minimal, attractive and professional.
+
+Considering the fact that it is a candidate page, minor animations using hover effect on the buttons do a great job. I personally think that they are amazing like that.
+
+Hamburger is just a normal menu but in the same color scheme.
+
+Coming to the footer of the website. I made a few changes. The social media icons are made in the same way as the color scheme of the website. The circle shape makes it more eye catchy.
+
+THE WEBSITE IS FULLY RESPONSIVE FOR ALL THE DEVICES.
+
+EVERYTHING ON THIS PAGE IS DESIGNED MY ME. MADE THIS WITHOUT ANY PAGE REFERENCES. THIS IS ALL ME. THIS IS WHAT I VISUALISED IN MY HEAD.
+AND I WAS ABLE TO CODE THE SAME.
+
+THANK YOU!!
+
+
+
